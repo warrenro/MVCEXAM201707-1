@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCEXAM201707-1", "MVCEXAM201707-1\MVCEXAM201707-1.csproj", "{625208FC-DDB7-4106-8543-B33FAF4C7AB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCEXAM201707_1", "MVCEXAM201707-1\MVCEXAM201707_1.csproj", "{625208FC-DDB7-4106-8543-B33FAF4C7AB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

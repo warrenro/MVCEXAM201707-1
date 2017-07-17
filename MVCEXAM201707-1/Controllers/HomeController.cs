@@ -26,5 +26,10 @@ namespace MVCEXAM201707_1.Controllers
 
             return View();
         }
+
+        public ActionResult LoginView()
+        {
+            return View();
+        }
     }
 }
