@@ -13,5 +13,12 @@ namespace MVCEXAM201707_1.Models.ViewModels
         {
             return View();
         }
+
+       
+        public ActionResult DisplayMessage()
+        {
+            TempData["message"] = "register done";
+            return View();
+        }
     }
 }
